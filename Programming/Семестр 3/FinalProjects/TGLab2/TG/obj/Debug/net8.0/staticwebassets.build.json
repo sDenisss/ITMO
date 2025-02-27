@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0aaNovWJlhcsQOje67vPHXL7zByLrwaEXPNuL1vZYu8=",
+  "Source": "TG",
+  "BasePath": "_content/TG",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\University\\Programming\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\TG4LabWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C65512-5F9E-4F2C-9F24-8A6A99B224BF}|TG4LabWPF\\TG4LabWPF.csproj|c:\\university\\programming\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\tg4labwpf\\tg4labwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C65512-5F9E-4F2C-9F24-8A6A99B224BF}|TG4LabWPF\\TG4LabWPF.csproj|solutionrelative:tg4labwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C65512-5F9E-4F2C-9F24-8A6A99B224BF}|TG4LabWPF\\TG4LabWPF.csproj|c:\\university\\programming\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\tg4labwpf\\tg4labwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75C65512-5F9E-4F2C-9F24-8A6A99B224BF}|TG4LabWPF\\TG4LabWPF.csproj|solutionrelative:tg4labwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C65512-5F9E-4F2C-9F24-8A6A99B224BF}|TG4LabWPF\\TG4LabWPF.csproj|c:\\university\\programming\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\tg4labwpf\\tg4labwpf\\tg4labwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75C65512-5F9E-4F2C-9F24-8A6A99B224BF}|TG4LabWPF\\TG4LabWPF.csproj|solutionrelative:tg4labwpf\\tg4labwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C65512-5F9E-4F2C-9F24-8A6A99B224BF}|TG4LabWPF\\TG4LabWPF.csproj|c:\\university\\programming\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\tg4labwpf\\tg4labwpf\\model\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C65512-5F9E-4F2C-9F24-8A6A99B224BF}|TG4LabWPF\\TG4LabWPF.csproj|solutionrelative:tg4labwpf\\model\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TG4LabWPF",
+              "DocumentMoniker": "C:\\University\\Programming\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\TG4LabWPF\\TG4LabWPF\\TG4LabWPF.csproj",
+              "RelativeDocumentMoniker": "TG4LabWPF\\TG4LabWPF.csproj",
+              "ToolTip": "C:\\University\\Programming\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\TG4LabWPF\\TG4LabWPF\\TG4LabWPF.csproj",
+              "RelativeToolTip": "TG4LabWPF\\TG4LabWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T00:20:43.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attraction.cs",
+              "DocumentMoniker": "C:\\University\\Programming\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\TG4LabWPF\\TG4LabWPF\\Model\\Attraction.cs",
+              "RelativeDocumentMoniker": "TG4LabWPF\\Model\\Attraction.cs",
+              "ToolTip": "C:\\University\\Programming\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\TG4LabWPF\\TG4LabWPF\\Model\\Attraction.cs",
+              "RelativeToolTip": "TG4LabWPF\\Model\\Attraction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T00:08:14.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\University\\Programming\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\TG4LabWPF\\TG4LabWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TG4LabWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\University\\Programming\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\TG4LabWPF\\TG4LabWPF\\MainWindow.xaml",
+              "RelativeToolTip": "TG4LabWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T23:43:40.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\University\\Programming\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\TG4LabWPF\\TG4LabWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TG4LabWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\University\\Programming\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3 \u2014 \u043A\u043E\u043F\u0438\u044F\\TG4LabWPF\\TG4LabWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TG4LabWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T23:43:38.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

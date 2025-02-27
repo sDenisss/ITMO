@@ -1,0 +1,14 @@
+c:\University\Algorithms and data structures\1.3 Rebus\bin\Debug\net8.0\1.3 Rebus.exe
+C:\University\Algorithms and data structures\1.3 Rebus\bin\Debug\net8.0\1.3 Rebus.deps.json
+C:\University\Algorithms and data structures\1.3 Rebus\bin\Debug\net8.0\1.3 Rebus.runtimeconfig.json
+c:\University\Algorithms and data structures\1.3 Rebus\bin\Debug\net8.0\1.3 Rebus.dll
+c:\University\Algorithms and data structures\1.3 Rebus\bin\Debug\net8.0\1.3 Rebus.pdb
+c:\University\Algorithms and data structures\1.3 Rebus\obj\Debug\net8.0\1.3 Rebus.GeneratedMSBuildEditorConfig.editorconfig
+c:\University\Algorithms and data structures\1.3 Rebus\obj\Debug\net8.0\1.3 Rebus.AssemblyInfoInputs.cache
+c:\University\Algorithms and data structures\1.3 Rebus\obj\Debug\net8.0\1.3 Rebus.AssemblyInfo.cs
+c:\University\Algorithms and data structures\1.3 Rebus\obj\Debug\net8.0\1.3 Rebus.csproj.CoreCompileInputs.cache
+c:\University\Algorithms and data structures\1.3 Rebus\obj\Debug\net8.0\1.3 Rebus.dll
+c:\University\Algorithms and data structures\1.3 Rebus\obj\Debug\net8.0\refint\1.3 Rebus.dll
+c:\University\Algorithms and data structures\1.3 Rebus\obj\Debug\net8.0\1.3 Rebus.pdb
+C:\University\Algorithms and data structures\1.3 Rebus\obj\Debug\net8.0\1.3 Rebus.genruntimeconfig.cache
+C:\University\Algorithms and data structures\1.3 Rebus\obj\Debug\net8.0\ref\1.3 Rebus.dll

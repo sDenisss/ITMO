@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TG3Final.props" />
+</Project>

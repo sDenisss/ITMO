@@ -1,0 +1,14 @@
+c:\University\Algorithms and data structures\1.4 Equalize by division\bin\Debug\net8.0\1.4 Equalize by division.exe
+C:\University\Algorithms and data structures\1.4 Equalize by division\bin\Debug\net8.0\1.4 Equalize by division.deps.json
+C:\University\Algorithms and data structures\1.4 Equalize by division\bin\Debug\net8.0\1.4 Equalize by division.runtimeconfig.json
+c:\University\Algorithms and data structures\1.4 Equalize by division\bin\Debug\net8.0\1.4 Equalize by division.dll
+c:\University\Algorithms and data structures\1.4 Equalize by division\bin\Debug\net8.0\1.4 Equalize by division.pdb
+c:\University\Algorithms and data structures\1.4 Equalize by division\obj\Debug\net8.0\1.4 Equalize by division.GeneratedMSBuildEditorConfig.editorconfig
+c:\University\Algorithms and data structures\1.4 Equalize by division\obj\Debug\net8.0\1.4 Equalize by division.AssemblyInfoInputs.cache
+c:\University\Algorithms and data structures\1.4 Equalize by division\obj\Debug\net8.0\1.4 Equalize by division.AssemblyInfo.cs
+c:\University\Algorithms and data structures\1.4 Equalize by division\obj\Debug\net8.0\1.4 Equalize by division.csproj.CoreCompileInputs.cache
+c:\University\Algorithms and data structures\1.4 Equalize by division\obj\Debug\net8.0\1.4 Equalize by division.dll
+c:\University\Algorithms and data structures\1.4 Equalize by division\obj\Debug\net8.0\refint\1.4 Equalize by division.dll
+c:\University\Algorithms and data structures\1.4 Equalize by division\obj\Debug\net8.0\1.4 Equalize by division.pdb
+C:\University\Algorithms and data structures\1.4 Equalize by division\obj\Debug\net8.0\1.4 Equalize by division.genruntimeconfig.cache
+C:\University\Algorithms and data structures\1.4 Equalize by division\obj\Debug\net8.0\ref\1.4 Equalize by division.dll

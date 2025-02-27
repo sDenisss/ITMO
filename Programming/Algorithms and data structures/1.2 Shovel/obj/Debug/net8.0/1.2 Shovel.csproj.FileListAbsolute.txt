@@ -1,0 +1,14 @@
+c:\University\Algorithms and data structures\1.2 Shovel\bin\Debug\net8.0\1.2 Shovel.exe
+C:\University\Algorithms and data structures\1.2 Shovel\bin\Debug\net8.0\1.2 Shovel.deps.json
+C:\University\Algorithms and data structures\1.2 Shovel\bin\Debug\net8.0\1.2 Shovel.runtimeconfig.json
+c:\University\Algorithms and data structures\1.2 Shovel\bin\Debug\net8.0\1.2 Shovel.dll
+c:\University\Algorithms and data structures\1.2 Shovel\bin\Debug\net8.0\1.2 Shovel.pdb
+c:\University\Algorithms and data structures\1.2 Shovel\obj\Debug\net8.0\1.2 Shovel.GeneratedMSBuildEditorConfig.editorconfig
+c:\University\Algorithms and data structures\1.2 Shovel\obj\Debug\net8.0\1.2 Shovel.AssemblyInfoInputs.cache
+c:\University\Algorithms and data structures\1.2 Shovel\obj\Debug\net8.0\1.2 Shovel.AssemblyInfo.cs
+c:\University\Algorithms and data structures\1.2 Shovel\obj\Debug\net8.0\1.2 Shovel.csproj.CoreCompileInputs.cache
+c:\University\Algorithms and data structures\1.2 Shovel\obj\Debug\net8.0\1.2 Shovel.dll
+c:\University\Algorithms and data structures\1.2 Shovel\obj\Debug\net8.0\refint\1.2 Shovel.dll
+c:\University\Algorithms and data structures\1.2 Shovel\obj\Debug\net8.0\1.2 Shovel.pdb
+C:\University\Algorithms and data structures\1.2 Shovel\obj\Debug\net8.0\1.2 Shovel.genruntimeconfig.cache
+C:\University\Algorithms and data structures\1.2 Shovel\obj\Debug\net8.0\ref\1.2 Shovel.dll

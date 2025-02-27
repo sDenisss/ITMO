@@ -1,0 +1,14 @@
+c:\University\Algorithms and data structures\1.1 Parentheses\bin\Debug\net8.0\1.1 Parentheses.exe
+C:\University\Algorithms and data structures\1.1 Parentheses\bin\Debug\net8.0\1.1 Parentheses.deps.json
+C:\University\Algorithms and data structures\1.1 Parentheses\bin\Debug\net8.0\1.1 Parentheses.runtimeconfig.json
+c:\University\Algorithms and data structures\1.1 Parentheses\bin\Debug\net8.0\1.1 Parentheses.dll
+c:\University\Algorithms and data structures\1.1 Parentheses\bin\Debug\net8.0\1.1 Parentheses.pdb
+c:\University\Algorithms and data structures\1.1 Parentheses\obj\Debug\net8.0\1.1 Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+c:\University\Algorithms and data structures\1.1 Parentheses\obj\Debug\net8.0\1.1 Parentheses.AssemblyInfoInputs.cache
+c:\University\Algorithms and data structures\1.1 Parentheses\obj\Debug\net8.0\1.1 Parentheses.AssemblyInfo.cs
+c:\University\Algorithms and data structures\1.1 Parentheses\obj\Debug\net8.0\1.1 Parentheses.csproj.CoreCompileInputs.cache
+c:\University\Algorithms and data structures\1.1 Parentheses\obj\Debug\net8.0\1.1 Parentheses.dll
+c:\University\Algorithms and data structures\1.1 Parentheses\obj\Debug\net8.0\refint\1.1 Parentheses.dll
+c:\University\Algorithms and data structures\1.1 Parentheses\obj\Debug\net8.0\1.1 Parentheses.pdb
+C:\University\Algorithms and data structures\1.1 Parentheses\obj\Debug\net8.0\1.1 Parentheses.genruntimeconfig.cache
+C:\University\Algorithms and data structures\1.1 Parentheses\obj\Debug\net8.0\ref\1.1 Parentheses.dll

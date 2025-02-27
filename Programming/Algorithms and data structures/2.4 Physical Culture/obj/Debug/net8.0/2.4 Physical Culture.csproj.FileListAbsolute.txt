@@ -1,0 +1,14 @@
+c:\University\Algorithms and data structures\2.4 Physical Culture\bin\Debug\net8.0\2.4 Physical Culture.exe
+C:\University\Algorithms and data structures\2.4 Physical Culture\bin\Debug\net8.0\2.4 Physical Culture.deps.json
+C:\University\Algorithms and data structures\2.4 Physical Culture\bin\Debug\net8.0\2.4 Physical Culture.runtimeconfig.json
+c:\University\Algorithms and data structures\2.4 Physical Culture\bin\Debug\net8.0\2.4 Physical Culture.dll
+c:\University\Algorithms and data structures\2.4 Physical Culture\bin\Debug\net8.0\2.4 Physical Culture.pdb
+c:\University\Algorithms and data structures\2.4 Physical Culture\obj\Debug\net8.0\2.4 Physical Culture.GeneratedMSBuildEditorConfig.editorconfig
+c:\University\Algorithms and data structures\2.4 Physical Culture\obj\Debug\net8.0\2.4 Physical Culture.AssemblyInfoInputs.cache
+c:\University\Algorithms and data structures\2.4 Physical Culture\obj\Debug\net8.0\2.4 Physical Culture.AssemblyInfo.cs
+c:\University\Algorithms and data structures\2.4 Physical Culture\obj\Debug\net8.0\2.4 Physical Culture.csproj.CoreCompileInputs.cache
+c:\University\Algorithms and data structures\2.4 Physical Culture\obj\Debug\net8.0\2.4 Physical Culture.dll
+c:\University\Algorithms and data structures\2.4 Physical Culture\obj\Debug\net8.0\refint\2.4 Physical Culture.dll
+c:\University\Algorithms and data structures\2.4 Physical Culture\obj\Debug\net8.0\2.4 Physical Culture.pdb
+C:\University\Algorithms and data structures\2.4 Physical Culture\obj\Debug\net8.0\2.4 Physical Culture.genruntimeconfig.cache
+C:\University\Algorithms and data structures\2.4 Physical Culture\obj\Debug\net8.0\ref\2.4 Physical Culture.dll
